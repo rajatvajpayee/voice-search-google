@@ -15,6 +15,6 @@ with sr.Microphone() as source :
         print('Sorry could not understand')
         
 ## Opening URL
-new = 2 
-tabUrl = "http://google.com/?#q=";
-webbrowser.open(tabUrl+text,new = new);ss
+new = 1 
+url = "http://google.com/?#q=";
+webbrowser.open(url+text,new = new);
