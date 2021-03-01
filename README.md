@@ -1,6 +1,2 @@
-# Python_GoogleSearch
+# Voice Command Google Search
 
-##Libraries
-### • import speech_recognition as sr
-### • import pyaudio
-### • import webbrowser
